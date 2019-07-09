@@ -4,7 +4,7 @@ Nesse repositório contém a primeira lista de exercício da DB1 Start.
 status.txt -> Contém o status do repositório.
 logs.txt -> Contém as Logs desse repositório.
 
-Exercícios:
+### Exercícios:
 
 1) Crie um repositório Git local chamado exercício 1, crie um arquivo chamado "status.txt" e neste arquivo adicione o status atual de seu repositório.
 2) Execute o commit das alterações no arquivo "status.txt" e crie um arquivo chamado "logs.txt" contendo todos os logs de seu repositório local.
@@ -14,5 +14,5 @@ Exercícios:
 6) Atualize seu repositório local com o repositório remoto e adicione no arquivo "logs.txt" os novos logs de seu projeto e envie para a nuvem.
 
 # Como clonar? 
-Utilize o comando abaixo.
+Utilize o comando abaixo.<br>
 git clone https://github.com/FilipeMoreno/exercicio1.git
