@@ -1,6 +1,23 @@
-commit 985afd8295371c544d7a4769a02233d4841dbb22 (HEAD -> master)
+commit 7f4ef5d1ed05da6487bd5678935e038d9d74d3bb (HEAD -> master, origin/master)
+Author: Filipe Moreno <y8.filipe@gmail.com>
+Date:   Tue Jul 9 16:22:50 2019 -0300
+
+    Create README.md
+
+commit 6d2dec2120b27e9be8268f395c75bee06efcb02c
+Author: Filipe <y8.filipe@gmail.com>
+Date:   Tue Jul 9 16:18:00 2019 -0300
+
+    Arquivo com Logs criado
+
+commit ce5391b2790be19f220f5833ba99797ebc2a64ba
+Author: Filipe <y8.filipe@gmail.com>
+Date:   Tue Jul 9 16:17:36 2019 -0300
+
+    Atualizacao de Status
+
+commit 985afd8295371c544d7a4769a02233d4841dbb22
 Author: Filipe <y8.filipe@gmail.com>
 Date:   Tue Jul 9 16:15:53 2019 -0300
 
     Arquivo criado
-
