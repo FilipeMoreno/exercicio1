@@ -1,7 +1,7 @@
 # Exercício 1 - DB1Start
 Nesse repositório contém a primeira lista de exercício da DB1 Start.
 
-status.txt -> Contém o status do repositório.
+status.txt -> Contém o status do repositório.<br>
 logs.txt -> Contém as Logs desse repositório.
 
 ### Exercícios:
@@ -14,5 +14,5 @@ logs.txt -> Contém as Logs desse repositório.
 6) Atualize seu repositório local com o repositório remoto e adicione no arquivo "logs.txt" os novos logs de seu projeto e envie para a nuvem.
 
 # Como clonar? 
-Utilize o comando abaixo.<br>
+Utilize o comando abaixo:<br>
 git clone https://github.com/FilipeMoreno/exercicio1.git
