@@ -1,4 +1,28 @@
-commit 7f4ef5d1ed05da6487bd5678935e038d9d74d3bb (HEAD -> master, origin/master)
+commit 220ae38f22d2499461d43c6b602b5aa5ad6411cd (HEAD -> master, origin/master)
+Author: Filipe Moreno <y8.filipe@gmail.com>
+Date:   Tue Jul 9 16:38:08 2019 -0300
+
+    Fix quebra de linha
+
+commit 13dffa91b295e88ff2536e32d98712b397f6e896
+Author: Filipe Moreno <y8.filipe@gmail.com>
+Date:   Tue Jul 9 16:37:32 2019 -0300
+
+    Atualização README
+
+commit 6af3496d35194ee0892be9231464ec5c3d5e4bd4
+Author: Filipe Moreno <y8.filipe@gmail.com>
+Date:   Tue Jul 9 16:35:00 2019 -0300
+
+    Atualização README.md
+
+commit e74fb0c0660b0a6ed47a509da5942098c71778b2
+Author: Filipe <y8.filipe@gmail.com>
+Date:   Tue Jul 9 16:24:29 2019 -0300
+
+    Atualizar as Logs
+
+commit 7f4ef5d1ed05da6487bd5678935e038d9d74d3bb
 Author: Filipe Moreno <y8.filipe@gmail.com>
 Date:   Tue Jul 9 16:22:50 2019 -0300
 
