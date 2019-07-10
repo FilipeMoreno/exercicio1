@@ -15,4 +15,6 @@ logs.txt -> Contém as Logs desse repositório.
 
 # Como clonar? 
 Utilize o comando abaixo:<br>
-git clone https://github.com/FilipeMoreno/exercicio1.git
+```sh
+$ git clone https://github.com/FilipeMoreno/exercicio1.git
+```
